@@ -1,4 +1,4 @@
 # Phylax Write-Ups
 
-- [Cost-Efficiently Deploying Kubernetes Clusters](technical.md)
+- [Cost-Efficiently Running Blockchain Nodes on Kubernetes](technical.md)
 - [Lightweight, Agile Management Strategies](management.md)

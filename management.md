@@ -13,7 +13,7 @@ Execution -->|Spikes| Breakdown
 Execution --> Delivery
 ```
 
-#### Kanban Crash Course
+#### Task Management: Kanban Crash Course
 
 Task management boards have three states: *To Do*, *In Progress*, and *Done*.
 
@@ -27,7 +27,7 @@ Every day, work item state is communicated at a stand-up (synchronously or async
 
 Operationally speaking, the goal of Kanban is to provide a body of data from which to extrapolate delivery timelines. For example, if a team's average Cycle Time is 2 days, and a breakdown meeting for a new feature produces 10 items, the delivery time for that feature will average 20 days. Using this system, software engineering teams can use data to ascertain a real measure of their own velocity, and schedule feature delivery with confidence.
 
-### Management
+### People Management: Operational
 
 I generally subscribe to the tenants outlined in Will Larson's [An Elegant Puzzle](https://lethain.com/elegant-puzzle/):
 
@@ -45,7 +45,7 @@ I generally subscribe to the tenants outlined in Will Larson's [An Elegant Puzzl
 * Reevaluate systems after 1-2 orders of magnitude of growth.
 * Work the process, not the exceptions.
 
-### Team-Building
+#### People Management: Metaphysical
 
 I also generally subscribe to the ideologies outlined in [The Five Dysfunctions of a Team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni:
 
